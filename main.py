@@ -1,11 +1,9 @@
-class User:
-    pass
-
-
 
 class Hotel:
-    pass
+    def book(self):
+        pass
 
 
 class Reservation:
-    pass
+    def generate(self):
+        pass

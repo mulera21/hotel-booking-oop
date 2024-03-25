@@ -1,14 +1,24 @@
-user can see a list of hotels
+ #user can see a list of hotels
 user can book a hotel
 user can get a reservation ticket
 user can pay it
 
 
 classes use:
-user
+# user
 hotel
 reservation ticket
 
 
-method
+#method user
+#view_hotel
 
+
+method hotel
+book
+
+
+method reservation
+def generate
+
+for now  we just deal with hotel and reservation only step one
