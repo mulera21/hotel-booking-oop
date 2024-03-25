@@ -1,3 +1,6 @@
+import pandas
+
+df = pandas
 
 class Hotel:
     def book(self):
