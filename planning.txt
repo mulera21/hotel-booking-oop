@@ -1,0 +1,14 @@
+user can see a list of hotels
+user can book a hotel
+user can get a reservation ticket
+user can pay it
+
+
+classes use:
+user
+hotel
+reservation ticket
+
+
+method
+
