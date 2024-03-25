@@ -1,6 +1,6 @@
 import pandas
 
-df = pandas.read_csv("hotels.csv")
+df = pandas.read_csv("hotels.csv", dtype={"id": str})
 
 
 class Hotel:
